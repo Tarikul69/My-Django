@@ -1,11 +1,10 @@
 <h1 align="center" style="font-size: 2.2rem; color: #2e68a1;">🧠 Documenting My Django Learning</h1>
 
-<center>This document outlines the complete roadmap to master **Django** as a backend engineer — from fundamentals to deployment, performance, and enterprise-level architecture.</center>
+<p align="center">This document outlines the complete roadmap to master Djangoas a backend engineer — from fundamentals to deployment, performance, and enterprise-level architecture.</p>
 
 ----
 
-## 🟢 Beginner Level (Core Django)
-
+<h3 align="center" style="font-size: 2.2rem; color: #2e68a1;"> 🟢 Beginner Level (Core Django)</h3>
 ### 🧱 Django Basics
 - Introduction to Django (MVC vs MVT)
 - Installing Django & Project Structure
