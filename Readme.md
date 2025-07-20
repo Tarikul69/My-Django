@@ -4,7 +4,8 @@
 
 ----
 
-<h3 align="center" style="font-size: 2.2rem; color: #2e68a1;"> 🟢 Beginner Level (Core Django)</h3>
+<h3 align="center" style="font-size: 2.2rem; color: #2e68a1;">🟢 Beginner Level (Core Django)</h3>
+
 ### 🧱 Django Basics
 - Introduction to Django (MVC vs MVT)
 - Installing Django & Project Structure
