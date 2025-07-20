@@ -1,4 +1,4 @@
-<center> 🧠 Documenting My Django Learning </center>
+<h1 align="center" style="font-size: 2.2rem; margin-bottom: 10px; color: #2e68a1;">🧠 Documenting My Django Learning</h1>
 
 This document outlines the complete roadmap to master **Django** as a backend engineer — from fundamentals to deployment, performance, and enterprise-level architecture.
 
