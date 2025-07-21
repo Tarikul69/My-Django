@@ -165,6 +165,5 @@
 
 ---
 
-> 🎯 Want this as a Notion doc or in PDF format? Ask away!
 > 📦 Bonus: Let me know if you'd like an auto-generated study planner or curated resource links.
 > 🤝 Feel free to contribute to this outline or suggest topics for future additions!
