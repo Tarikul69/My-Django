@@ -131,7 +131,7 @@
 
 ---
 
-## 🧩 Ecosystem & Integrations
+<h3 align="center" style="font-size: 2.2rem; color: #2e68a1;"> Ecosystem & Integrations </h3>
 
 ### 🔌 Ecosystem Tools
 - GraphQL with Graphene-Django
