@@ -14,7 +14,7 @@ python manage.py makemigrations
 ```
 python manage.py migrate
 ```
-```
+
 | Function                           | Description                                |
 | ---------------------------------- | ------------------------------------------ |
 | ```Model.objects.create()```       | Creates and saves a new                    |
@@ -22,4 +22,3 @@ python manage.py migrate
 | `Model.objects.get_or_create()`    | Gets an object or creates it if not exists |
 | `Model.objects.update_or_create()` | Updates or creates an object in one call   |
 | `Model.objects.bulk_create()`      | Creates many objects in one query          |
-```
