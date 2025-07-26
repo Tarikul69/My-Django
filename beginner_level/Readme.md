@@ -11,4 +11,6 @@ in Django. We will also cover how to use the ORM to interact with the database.
 python manage.py makemigrations
 ```
 #### 3. Apply changes to the DB
-```python manage.py migrate```
+```
+python manage.py migrate
+```
