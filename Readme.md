@@ -124,10 +124,6 @@
 - Rate Limiting & Throttling
 - OWASP Top 10 for Django
 
-### 🌍 i18n & l10n
-- Internationalization Setup
-- Translation of Templates and Strings
-- Language Switcher
 
 ---
 
