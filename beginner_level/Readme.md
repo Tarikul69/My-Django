@@ -14,7 +14,7 @@ python manage.py makemigrations
 ```
 python manage.py migrate
 ```
-
+##### Create (Insert)
 | Function                           | Description                                |
 | ---------------------------------- | ------------------------------------------ |
 | ```Model.objects.create()```       | Creates and saves a new                    |
